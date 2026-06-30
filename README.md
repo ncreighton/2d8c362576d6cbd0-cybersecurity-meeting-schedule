@@ -1,0 +1,2 @@
+# 2d8c362576d6cbd0-cybersecurity-meeting-schedule
+The cybersecurity tool you'd build yourself — if you had the time.  Status bar integration gives you real-time feedback without opening panels. Integrates seamlessly into your VS Code workflow — keyboard shortcuts included.  ## What's Included  - Cybersecurity Meeting Scheduler And Notes Organizer — fully configured and ready to use - Integrated di
